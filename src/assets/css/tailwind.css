@@ -1,9 +1,0 @@
-@import 'tailwindcss/base';
-
-@import 'tailwindcss/components';
-
-@import 'tailwindcss/utilities';
-
-.onhover:hover .icon {
-	opacity: 1 !important;
-}
